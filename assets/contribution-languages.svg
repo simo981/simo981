@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="350" role="img" aria-label="Languages across contributions">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .title { font-size: 20px; font-weight: 600; }
+    .label { font-size: 14px; font-weight: 500; }
+    .value { font-size: 14px; fill: #8b949e; }
+    .track { fill: #21262d; }
+  </style>
+  <rect width="100%" height="100%" rx="16" fill="#0d1117" />
+  <text class="title" x="40" y="40">Languages across contributions</text>
+  
+      <g>
+        <circle cx="40" cy="72" r="6" fill="#DA5B0B" />
+        <text class="label" x="60" y="76">Jupyter Notebook</text>
+        <rect class="track" x="170" y="60" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="60" width="226" height="18" rx="9" fill="#DA5B0B" />
+        <text class="value" x="435" y="75">91%</text>
+      </g>
+
+      <g>
+        <circle cx="40" cy="112" r="6" fill="#b07219" />
+        <text class="label" x="60" y="116">Java</text>
+        <rect class="track" x="170" y="100" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="100" width="12" height="18" rx="9" fill="#b07219" />
+        <text class="value" x="435" y="115">5%</text>
+      </g>
+
+      <g>
+        <circle cx="40" cy="152" r="6" fill="#3572A5" />
+        <text class="label" x="60" y="156">Python</text>
+        <rect class="track" x="170" y="140" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="140" width="6" height="18" rx="9" fill="#3572A5" />
+        <text class="value" x="435" y="155">2%</text>
+      </g>
+
+      <g>
+        <circle cx="40" cy="192" r="6" fill="#00B4AB" />
+        <text class="label" x="60" y="196">Dart</text>
+        <rect class="track" x="170" y="180" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="180" width="4" height="18" rx="9" fill="#00B4AB" />
+        <text class="value" x="435" y="195">2%</text>
+      </g>
+
+      <g>
+        <circle cx="40" cy="232" r="6" fill="#e34c26" />
+        <text class="label" x="60" y="236">HTML</text>
+        <rect class="track" x="170" y="220" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="220" width="4" height="18" rx="9" fill="#e34c26" />
+        <text class="value" x="435" y="235">1%</text>
+      </g>
+
+      <g>
+        <circle cx="40" cy="272" r="6" fill="#f34b7d" />
+        <text class="label" x="60" y="276">C++</text>
+        <rect class="track" x="170" y="260" width="250" height="18" rx="9" />
+        <rect class="bar" x="170" y="260" width="4" height="18" rx="9" fill="#f34b7d" />
+        <text class="value" x="435" y="275">1%</text>
+      </g>
+</svg>

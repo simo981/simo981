@@ -1,0 +1,62 @@
+name: Update contribution cards
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate recent commits block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: simo981
+          COMMIT_LIMIT: 3
+          COMMIT_LOOKBACK_DAYS: 45
+          EVENTS_PER_PAGE: 50
+          EVENT_MAX_PAGES: 3
+        run: node scripts/update-recent-commits.mjs
+
+      - name: Generate recent PRs block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: simo981
+          PR_LIMIT: 3
+          PR_LOOKBACK_DAYS: 90
+          EVENTS_PER_PAGE: 50
+          EVENT_MAX_PAGES: 3
+          PR_INCLUDE_DRAFTS: false
+        run: node scripts/update-recent-prs.mjs
+
+      - name: Generate language badge
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: simo981
+          REPO_LIMIT: 40
+          LANG_PER_REPO_LIMIT: 10
+          LANG_TOP_LIMIT: 6
+        run: node scripts/update-language-badge.mjs
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution cards"
+          file_pattern: |
+            README.md
+            assets/contribution-languages.svg
