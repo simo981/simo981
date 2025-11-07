@@ -18,6 +18,11 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2025-11-07</code></td>
+    <td><a href="https://github.com/simo981/simo981/commit/db71b030aac458fdd477e8dfb8ee6291f7bc0f32" target="_blank" rel="noopener noreferrer">Add automated contribution cards and update README</a></td>
+    <td><a href="https://github.com/simo981/simo981" target="_blank" rel="noopener noreferrer">simo981/simo981</a></td>
+  </tr>
+  <tr>
     <td><code>2025-11-06</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/40c2d4c05bb6e08a08219a0dc7b640283ea45df6" target="_blank" rel="noopener noreferrer">Add push notification support with Firebase Messaging</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
@@ -26,11 +31,6 @@
     <td><code>2025-11-03</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/72c806540a36ed2cedf11b752a372edc2cbe65f4" target="_blank" rel="noopener noreferrer">Add secure session storage and token validation</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-01</code></td>
-    <td><a href="https://github.com/simo981/simo981.github.io/commit/3a6bd5761818c66a40c3472e42fe687d52d4ae50" target="_blank" rel="noopener noreferrer">Improve field row and button layout responsiveness</a></td>
-    <td><a href="https://github.com/simo981/simo981.github.io" target="_blank" rel="noopener noreferrer">simo981/simo981.github.io</a></td>
   </tr>
     </tbody>
   </table>
