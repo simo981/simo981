@@ -19,17 +19,17 @@
     <tbody>
   <tr>
     <td><code>2025-11-07</code></td>
-    <td><a href="https://github.com/simo981/simo981/commit/db71b030aac458fdd477e8dfb8ee6291f7bc0f32" target="_blank" rel="noopener noreferrer">Add automated contribution cards and update README</a></td>
-    <td><a href="https://github.com/simo981/simo981" target="_blank" rel="noopener noreferrer">simo981/simo981</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-06</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/40c2d4c05bb6e08a08219a0dc7b640283ea45df6" target="_blank" rel="noopener noreferrer">Add push notification support with Firebase Messaging</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/bbd562722bc13029523715dba065738dbe3c4bf8" target="_blank" rel="noopener noreferrer">Improve session validation and error handling</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-03</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/72c806540a36ed2cedf11b752a372edc2cbe65f4" target="_blank" rel="noopener noreferrer">Add secure session storage and token validation</a></td>
+    <td><code>2025-11-07</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/2acc2924d5f2d40c1dca3822d64fbad2cddd58d6" target="_blank" rel="noopener noreferrer">Merge pull request #1 from Giusgarus/backend-followup</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
+    <td><code>2025-11-07</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/36e64193cdc26bd5adb3ebaa03ca720f3c414434" target="_blank" rel="noopener noreferrer">Refactor timestamp usage and add planning utility</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
