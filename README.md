@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
-    <td><code>2025-11-07</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/bbd562722bc13029523715dba065738dbe3c4bf8" target="_blank" rel="noopener noreferrer">Improve session validation and error handling</a></td>
+    <td><code>2025-11-10</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/e9bcefba5cd004062e993dd5fefbedaa533b3dd2" target="_blank" rel="noopener noreferrer">Auth block done</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-07</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/2acc2924d5f2d40c1dca3822d64fbad2cddd58d6" target="_blank" rel="noopener noreferrer">Merge pull request #1 from Giusgarus/backend-followup</a></td>
+    <td><code>2025-11-10</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/26aa7edc6da4b0eeae184837bfdc3ee08c74c64b" target="_blank" rel="noopener noreferrer">Update database.py</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-07</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/36e64193cdc26bd5adb3ebaa03ca720f3c414434" target="_blank" rel="noopener noreferrer">Refactor timestamp usage and add planning utility</a></td>
+    <td><code>2025-11-10</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/ce1f08c45f633ba5b9587296f47b475a307f79d9" target="_blank" rel="noopener noreferrer">Update API endpoints and task IDs; refactor profile sync</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
