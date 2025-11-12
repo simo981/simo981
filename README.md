@@ -18,6 +18,11 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2025-11-11</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/30deac84faf31273e2a9a1fa8ce92b1c7b86688b" target="_blank" rel="noopener noreferrer">proposta cambiamento api</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
     <td><code>2025-11-10</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/e9bcefba5cd004062e993dd5fefbedaa533b3dd2" target="_blank" rel="noopener noreferrer">Auth block done</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
@@ -25,11 +30,6 @@
   <tr>
     <td><code>2025-11-10</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/26aa7edc6da4b0eeae184837bfdc3ee08c74c64b" target="_blank" rel="noopener noreferrer">Update database.py</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-10</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/ce1f08c45f633ba5b9587296f47b475a307f79d9" target="_blank" rel="noopener noreferrer">Update API endpoints and task IDs; refactor profile sync</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
