@@ -19,17 +19,17 @@
     <tbody>
   <tr>
     <td><code>2025-11-14</code></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/8f09e1c7f72e763787b7ade904fc261278ca4ddb" target="_blank" rel="noopener noreferrer">Add betting strategy simulation script</a></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
+  </tr>
+  <tr>
+    <td><code>2025-11-14</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/49fe5c09dc94788157cfba0b9e2adb23a8ff1d18" target="_blank" rel="noopener noreferrer">Integrate Firebase notifications and device token management</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
+    <td><code>2025-11-14</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/ad8935a361cd4d38efe288f5fdc949e465b37617" target="_blank" rel="noopener noreferrer">fixed bug ? in user profile settings</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-11</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/30deac84faf31273e2a9a1fa8ce92b1c7b86688b" target="_blank" rel="noopener noreferrer">proposta cambiamento api</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-10</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/e9bcefba5cd004062e993dd5fefbedaa533b3dd2" target="_blank" rel="noopener noreferrer">Auth block done</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
