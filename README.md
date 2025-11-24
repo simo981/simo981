@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
-    <td><code>2025-11-20</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/fa3fabbdb0da9e85c1a4e3cb21b3fa3fc4a32624" target="_blank" rel="noopener noreferrer">update back</a></td>
+    <td><code>2025-11-23</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/aa8d69c9b15682713d81f7de180a3d610c464340" target="_blank" rel="noopener noreferrer">Wired frontend follow-up</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-14</code></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/8f09e1c7f72e763787b7ade904fc261278ca4ddb" target="_blank" rel="noopener noreferrer">Add betting strategy simulation script</a></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
+    <td><code>2025-11-23</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/8f926b6aaee67bbcb481e4cede911b1f715d93a7" target="_blank" rel="noopener noreferrer">Backend fix follow-up + refactoring</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-14</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/49fe5c09dc94788157cfba0b9e2adb23a8ff1d18" target="_blank" rel="noopener noreferrer">Integrate Firebase notifications and device token management</a></td>
+    <td><code>2025-11-20</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/fa3fabbdb0da9e85c1a4e3cb21b3fa3fc4a32624" target="_blank" rel="noopener noreferrer">update back</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
