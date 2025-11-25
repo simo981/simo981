@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
-    <td><code>2025-11-23</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/aa8d69c9b15682713d81f7de180a3d610c464340" target="_blank" rel="noopener noreferrer">Wired frontend follow-up</a></td>
+    <td><code>2025-11-24</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/6b30772f215dd8c4b1befccdea5193f23e57a367" target="_blank" rel="noopener noreferrer">firebase ci ha revocato la chiave</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-23</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/8f926b6aaee67bbcb481e4cede911b1f715d93a7" target="_blank" rel="noopener noreferrer">Backend fix follow-up + refactoring</a></td>
+    <td><code>2025-11-24</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/af31cb62c2a9c5c3da1f00052e70a0b5b9a2e38f" target="_blank" rel="noopener noreferrer">mvp?</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-11-20</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/fa3fabbdb0da9e85c1a4e3cb21b3fa3fc4a32624" target="_blank" rel="noopener noreferrer">update back</a></td>
+    <td><code>2025-11-24</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/b4c556222a7bd7db17acdb3f67f403fb8b6fcf21" target="_blank" rel="noopener noreferrer">backedfix follow-up</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
