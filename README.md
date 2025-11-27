@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2025-11-27</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/111c798c003bab6eab644dd3f133156f99c2fcd6" target="_blank" rel="noopener noreferrer">updated documentation for fastapi routes</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
+    <td><code>2025-11-26</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/33e73decb637e5b0c0d213f41cc4fc259a72d1c4" target="_blank" rel="noopener noreferrer">wired plan by interests, report, medals</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
     <td><code>2025-11-25</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/a6613fd6762a8270130cd4da0045598dda84c8f0" target="_blank" rel="noopener noreferrer">Update test_backend_app.py</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-25</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/7d46d3b95fcf3680c00fa377d01cb376f7e55aa9" target="_blank" rel="noopener noreferrer">easy</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-25</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/ab761cc957698cc7a88f269b2cc0c7ee0f03369b" target="_blank" rel="noopener noreferrer">easy</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
