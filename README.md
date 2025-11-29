@@ -18,6 +18,11 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2025-11-28</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/b5e44db494aad0179a567c85e1c76cc6ea85315d" target="_blank" rel="noopener noreferrer">Spurious score/proj + added docs</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
     <td><code>2025-11-27</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/a14d323a0cbdf1de21607ae6bd0e8d420a262191" target="_blank" rel="noopener noreferrer">Merge pull request #3 from Giusgarus/followup</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
@@ -25,11 +30,6 @@
   <tr>
     <td><code>2025-11-27</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/93477f45df6d0839a4ffd479bc38210ed578eec8" target="_blank" rel="noopener noreferrer">Merge branch 'main' into followup</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-11-27</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/111c798c003bab6eab644dd3f133156f99c2fcd6" target="_blank" rel="noopener noreferrer">updated documentation for fastapi routes</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
