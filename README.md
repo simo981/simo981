@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
-    <td><code>2025-12-03</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/23aee59d255d32cb9d9f2fb7984d3533269b7416" target="_blank" rel="noopener noreferrer">Full sync front/backend + fixing spurious things</a></td>
+    <td><code>2025-12-04</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/e2a3573988c946a108a35d15e3b4537e3eb6b3a2" target="_blank" rel="noopener noreferrer">fixed plan title upon retask</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-12-02</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/4a848a0d28199380dc2d6a508d3dd182c274062f" target="_blank" rel="noopener noreferrer">/prompt /replan /retask works</a></td>
+    <td><code>2025-12-04</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/6a344cf08cbc7295d5679dd2c588e8a873b43102" target="_blank" rel="noopener noreferrer">Fix</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
   <tr>
-    <td><code>2025-12-02</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/4f346beb35734d03ee925afd044d9223438777a5" target="_blank" rel="noopener noreferrer">Fix</a></td>
+    <td><code>2025-12-04</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/c219a7e8b49dc7f8776fe3924bc8a3815448ac31" target="_blank" rel="noopener noreferrer">Per favore Dio fa che vada tutto</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
