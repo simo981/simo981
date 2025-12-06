@@ -18,18 +18,18 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2025-12-05</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/81210d15126110996e24c3916149702a374b61ac" target="_blank" rel="noopener noreferrer">Refresh active plan after returning from profile</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
+    <td><code>2025-12-05</code></td>
+    <td><a href="https://github.com/Giusgarus/skill_up/commit/ba6eb377cbd6980d859cb909b3c37863c07c5393" target="_blank" rel="noopener noreferrer">Add plan replan API and UI integration</a></td>
+    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+  </tr>
+  <tr>
     <td><code>2025-12-04</code></td>
     <td><a href="https://github.com/Giusgarus/skill_up/commit/e2a3573988c946a108a35d15e3b4537e3eb6b3a2" target="_blank" rel="noopener noreferrer">fixed plan title upon retask</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-12-04</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/6a344cf08cbc7295d5679dd2c588e8a873b43102" target="_blank" rel="noopener noreferrer">Fix</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-12-04</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/c219a7e8b49dc7f8776fe3924bc8a3815448ac31" target="_blank" rel="noopener noreferrer">Per favore Dio fa che vada tutto</a></td>
     <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
   </tr>
     </tbody>
