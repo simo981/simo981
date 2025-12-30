@@ -18,19 +18,19 @@
     </thead>
     <tbody>
   <tr>
-    <td><code>2025-12-05</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/81210d15126110996e24c3916149702a374b61ac" target="_blank" rel="noopener noreferrer">Refresh active plan after returning from profile</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+    <td><code>2025-12-30</code></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/a18bfb2e0fe330135e34e5a35c10abf3a65a1cd0" target="_blank" rel="noopener noreferrer">Update installation instructions in README</a></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
   </tr>
   <tr>
-    <td><code>2025-12-05</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/ba6eb377cbd6980d859cb909b3c37863c07c5393" target="_blank" rel="noopener noreferrer">Add plan replan API and UI integration</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+    <td><code>2025-12-30</code></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/b54f56209efec5a379cd93c75004d038063c9adc" target="_blank" rel="noopener noreferrer">Merge branch 'main' of https://github.com/simo981/sample_sanremo_streak</a></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
   </tr>
   <tr>
-    <td><code>2025-12-04</code></td>
-    <td><a href="https://github.com/Giusgarus/skill_up/commit/e2a3573988c946a108a35d15e3b4537e3eb6b3a2" target="_blank" rel="noopener noreferrer">fixed plan title upon retask</a></td>
-    <td><a href="https://github.com/Giusgarus/skill_up" target="_blank" rel="noopener noreferrer">Giusgarus/skill_up</a></td>
+    <td><code>2025-12-30</code></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/8ea308406fc632ea0e69acafda2f0bfcf31b7714" target="_blank" rel="noopener noreferrer">Fix formatting of Window Radius description</a></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
   </tr>
     </tbody>
   </table>
