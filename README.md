@@ -18,6 +18,11 @@
     </thead>
     <tbody>
   <tr>
+    <td><code>2026-01-03</code></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/7bfe6c171b1c44539915c6bc94898a506eaf135a" target="_blank" rel="noopener noreferrer">Now we can select # of T/T to compute combinations</a></td>
+    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
+  </tr>
+  <tr>
     <td><code>2025-12-30</code></td>
     <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/a18bfb2e0fe330135e34e5a35c10abf3a65a1cd0" target="_blank" rel="noopener noreferrer">Update installation instructions in README</a></td>
     <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
@@ -25,11 +30,6 @@
   <tr>
     <td><code>2025-12-30</code></td>
     <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/b54f56209efec5a379cd93c75004d038063c9adc" target="_blank" rel="noopener noreferrer">Merge branch 'main' of https://github.com/simo981/sample_sanremo_streak</a></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
-  </tr>
-  <tr>
-    <td><code>2025-12-30</code></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/8ea308406fc632ea0e69acafda2f0bfcf31b7714" target="_blank" rel="noopener noreferrer">Fix formatting of Window Radius description</a></td>
     <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
   </tr>
     </tbody>
