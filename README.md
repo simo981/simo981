@@ -8,22 +8,7 @@
 
 <!-- START_RECENT_COMMITS -->
 <div align="center">
-  <table style="width:90%;max-width:720px;border-collapse:collapse;font-family:'Segoe UI', Ubuntu, sans-serif;font-size:14px;color:#c9d1d9;">
-    <thead>
-      <tr style="text-align:left;color:#8b949e;font-size:13px;">
-        <th style="padding:6px 8px;">Date</th>
-        <th style="padding:6px 8px;">Commit</th>
-        <th style="padding:6px 8px;">Repository</th>
-      </tr>
-    </thead>
-    <tbody>
-  <tr>
-    <td><code>2026-01-03</code></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak/commit/7bfe6c171b1c44539915c6bc94898a506eaf135a" target="_blank" rel="noopener noreferrer">Now we can select # of T/T to compute combinations</a></td>
-    <td><a href="https://github.com/simo981/sample_sanremo_streak" target="_blank" rel="noopener noreferrer">simo981/sample_sanremo_streak</a></td>
-  </tr>
-    </tbody>
-  </table>
+  <!-- No recent commits available -->
 </div>
 <!-- END_RECENT_COMMITS -->
 
